@@ -16,8 +16,11 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <br>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PHPSTORM" src="https://img.shields.io/badge/PhpStorm-800080?style=for-the-badge&logo=PhpStorm">
+  <img align="center" alt="ZENDFRAMEWORK" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" /> 
+
 
  </div>
 <br>
