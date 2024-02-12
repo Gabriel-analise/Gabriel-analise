@@ -19,7 +19,6 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯
   <br>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="PHPSTORM" src="https://img.shields.io/badge/PhpStorm-800080?style=for-the-badge&logo=PhpStorm">
-  <img align="center" alt="ZENDFRAMEWORK" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" /> 
 
 
  </div>
