@@ -32,7 +32,12 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
   <br>
   <img align="center" style="margin-top: 20" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
   <img align="center" alt="PHPSTORM" src="https://img.shields.io/badge/PhpStorm-800080?style=for-the-badge&logo=PhpStorm">
-  <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=ubuntu&logoColor=%23FFFF"
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=ubuntu&logoColor=%23FFFF">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/ZEND-0679EA?style=for-the-badge&logo=zend&logoColor=%2361DAFB">
+
+  
+
 </div>
   </div>
 <br>
@@ -41,7 +46,7 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
 
 <div align="center">
   <a href="https://instagram.com/gabriel_fariabr" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/Instagram-7B68EE?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+   <img align="center" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
   <a href="https://www.linkedin.com/in/gabriel-faria-599a64191" target="_blank">
