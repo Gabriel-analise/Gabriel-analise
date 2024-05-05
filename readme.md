@@ -42,7 +42,7 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
   </div>
 <br>
 
-### Você pode me encontrar aqui também👇
+<p align="center"> Você pode me encontrar aqui também👇 </p>
 
 <div align="center">
   <a href="https://instagram.com/gabriel_fariabr" target="_blank">
