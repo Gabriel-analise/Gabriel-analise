@@ -1,24 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=5ABCDE&center=true&width=435&lines=Ol%C3%A1;Bem+vindo+ao+meu+perfil;Meu+nome+%C3%A9+Gabriel)](https://git.io/typing-svg)
-  
-👨‍💻 **Desenvolvedor Web Full Stack em Araucária, Paraná**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=2500&pause=1000&color=5ABCDE&background=FF282800&center=true&width=435&lines=FullStack+Developer;25+year+old+programmer;Arauc%C3%A1ria%2C+Paran%C3%A1%2C+Brazil)](https://git.io/typing-svg)
 
-🚀 Apaixonado por transformar ideias em soluções digitais impactantes, sou um desenvolvedor web full stack com experiência sólida no desenvolvimento de aplicativos web e móveis.
+<hr>
 
-💼 Atualmente, faço parte da equipe de desenvolvimento da [Atual Card](https://www.atualcard.com.br/), a maior gráfica online da América Latina, sediada em São José dos Pinhais, Paraná. Aqui, contribuo para criar experiências de usuário excepcionais e soluções inovadoras que impulsionam o sucesso de nossos clientes.
+<h3>Hello, I’m Gabriel, a developer who has been working with code since February 2020 and has become passionate about all the areas I’ve explored so far.</h3>
 
-🔧 **Minhas habilidades incluem:**
+<br>
 
-- Desenvolvimento de aplicativos web e móveis utilizando tecnologias como HTML, CSS, JavaScript, Zend e Laravel.
-- Implementação de arquiteturas robustas e escaláveis, garantindo desempenho e segurança.
-- Colaboração eficaz em equipes multidisciplinares, utilizando metodologias ágeis para entregas pontuais e de alta qualidade.
+## **🌐 Full Stack Developer | 🛠️ [Atual Card Developer](https://www.atualcard.com.br/)  | 🌎 Brazil**
 
-🌟 Estou sempre em busca de oportunidades desafiadoras para continuar aprendendo e crescendo profissionalmente. Se você está procurando por um desenvolvedor web apaixonado e comprometido em fazer a diferença, adoraria me conectar!
+<br>
 
-Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
-<div align="center"><br>
+**Technologies used day by day:**
+<div align="center">
   <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=FFFFFF">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=FFFFFF">
@@ -35,14 +31,12 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20?style=for-the-badge&logo=ubuntu&logoColor=%23FFFF">
   <img align="center" alt="Js" src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Js" src="https://img.shields.io/badge/ZEND-0679EA?style=for-the-badge&logo=zend&logoColor=%2361DAFB">
-
-  
-
 </div>
   </div>
+  
 <br>
 
-<p align="center"> Você pode me encontrar aqui também👇 </p>
+<p align="center"> How to Reach Me: </p>
 
 <div align="center">
   <a href="https://instagram.com/gabriel_fariabr" target="_blank">
@@ -58,4 +52,15 @@ Aqui estão algumas das tecnologias que eu trabalho no meu dia a dia🤯:
   <a href="https://github.com/gabriel-analise">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-analise&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-analise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+    
+<br>
+<br>
+
+<div align="center">
+  
+☕ From [Gabriel de Faria Calisario](https://github.com/Gabriel-analise)
+<p>Any feedback would be great 😊</p>
+
 </div>
