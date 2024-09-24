@@ -11,7 +11,9 @@
 
 ## **🌐 Full Stack Developer | 🛠️ [Atual Card Developer](https://www.atualcard.com.br/)  | 🌎 Brazil**
 
-[](https://github.com/Gabriel-analise/Gabriel-analise/blob/main/pompo-the-cinephile-typing-fast.gif)
+<img src="https://github.com/Gabriel-analise/Gabriel-analise/blob/main/pompo-the-cinephile-typing-fast.gif" alt="Descrição da imagem" width="100%" height="100%">
+
+
 <br>
 
 **Technologies used day by day:**
