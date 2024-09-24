@@ -38,7 +38,7 @@
 </div>
   </div>
   
-<br>
+<br> <hr>
 
 <p align="center"> How to Reach Me: </p>
 
@@ -52,17 +52,17 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/gabriel-analise">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-analise&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-analise&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<br>
+<br>
+<div align="center">
+  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-analise&layout=donut-vertical&langs_count=8&theme=dracula" />
+</a>
     
 <br>
 <br>
-
-<div align="center">
   
 ☕ From [Gabriel de Faria Calisario](https://github.com/Gabriel-analise)
 <p>Any feedback would be great 😊</p>
