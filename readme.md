@@ -13,6 +13,7 @@
 
 <img src="https://github.com/Gabriel-analise/Gabriel-analise/blob/main/pompo-the-cinephile-typing-fast.gif" alt="Descrição da imagem" width="100%" height="100%">
 
+<hr>
 
 <br>
 
